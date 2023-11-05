@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "knex": "^3.0.1",
+    "papaparse": "^5.4.1",
+    "pg": "^8.11.3",
     "pg-copy-streams": "^6.0.6"
   }
 }
